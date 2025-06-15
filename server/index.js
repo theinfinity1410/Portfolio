@@ -9,8 +9,12 @@ dotenv.config();
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+app.use(cors({
+  origin: "*", // <-- for testing. You can restrict later to your frontend URL
+  methods: ["GET", "POST"],
+  allowedHeaders: ["Content-Type"]
+}));
 app.use(express.json());
-app.use(cors());
 app.use("/", routes);
 
 app.listen(PORT, () => {

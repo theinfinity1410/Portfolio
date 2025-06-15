@@ -3,7 +3,7 @@ import { buildSystemPrompt } from "./prompt.js";
 
 // Initialize Groq client
 const groq = new Groq({
-  apiKey: process.env.GROQ_API_KEY || "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"
+  apiKey: process.env.GROQ_API_KEY
 });
 
 // Keywords for professional relevance
