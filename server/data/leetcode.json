@@ -1,0 +1,49 @@
+{
+    "username": "infinity1410",
+    "profile_url": "https://leetcode.com/u/infinity1410/",
+    "total_problems_solved": 300,
+    "problems_breakdown": {
+      "easy": 100,
+      "medium": 150,
+      "hard": 50
+    },
+    "languages_used": [
+      "Java",
+      "Python",
+      "C++"
+    ],
+    "submission_stats": {
+      "total_submissions": 1200,
+      "acceptance_rate": "68%",
+      "longest_streak": "47 days",
+      "current_streak": "14 days",
+      "last_active": "2025-06-13"
+    },
+    "topic_expertise": [
+      "Arrays",
+      "Linked Lists",
+      "Trees",
+      "Recursion",
+      "Graphs",
+      "Dynamic Programming",
+      "Greedy Algorithms",
+      "Backtracking",
+      "Binary Search",
+      "Sliding Window"
+    ],
+    "competitive_profiles": [
+      {
+        "platform": "Codeforces",
+        "username": "infinity1410",
+        "profile_url": "https://codeforces.com/profile/infinity1410",
+        "rating": "Pupil"
+      },
+      {
+        "platform": "GeeksForGeeks",
+        "username": "infinity1410",
+        "profile_url": "https://www.geeksforgeeks.org/user/infinity1410/"
+      }
+    ],
+    "highlight": "Solved over 300 problems across multiple topics with solid consistency. Shows mastery in Data Structures, Recursion, and DP. Strong command over problem-solving in Java."
+  }
+  

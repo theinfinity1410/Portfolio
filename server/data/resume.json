@@ -1,0 +1,72 @@
+{
+    "name": "Swayam Gosavi",
+    "contact": {
+      "email": "swayamgosavi1410@gmail.com",
+      "phone": "+91 9822687804",
+      "github": "https://github.com/theinfinity1410",
+      "linkedin": "https://www.linkedin.com/in/swayam-gosavi-8020a4212/",
+      "leetcode": "https://leetcode.com/u/infinity1410/",
+      "gfg": "https://geeksforgeeks.org/user/infinity1410/"
+    },
+    "education": [
+      {
+        "institution": "Pune Institute of Computer Technology",
+        "degree": "Bachelor of Engineering in ENTC Engineering",
+        "cgpa": "8.85",
+        "duration": "Sept 2023 – June 2027",
+        "location": "Pune, Maharashtra"
+      },
+      {
+        "institution": "Ashoka Universal School",
+        "level": "Junior College",
+        "percentage": "71.17%",
+        "duration": "June 2021 – April 2023",
+        "location": "Nashik, Maharashtra"
+      },
+      {
+        "institution": "Ashoka Universal School",
+        "level": "10th I.C.S.E.",
+        "percentage": "98.00%",
+        "duration": "June 2009 – April 2021",
+        "location": "Nashik, Maharashtra"
+      }
+    ],
+    "skills": [
+      "Java", "Python", "C++", "C", "JavaScript", "TypeScript", "GraphQL",
+      "MongoDB", "PostgreSQL", "Prisma", "Git/GitHub", "Docker", "Microsoft Azure", "Nginx",
+      "ReactJS", "NodeJS", "ExpressJS", "NextJS", "Tailwind CSS", "Web-Sockets", "WebRTC", "Material UI"
+    ],
+    "projects": [
+      {
+        "name": "RC Round I Backend",
+        "tech": ["JavaScript", "NodeJS", "PostgreSQL"],
+        "description": "Backend for quiz-based web app for PISB’s 'Reverse Coding Round - I' event. Deployed on Azure, scaled to 100+ users."
+      },
+      {
+        "name": "QuickSilver",
+        "tech": ["TypeScript", "NodeJS", "ReactJS", "Claude AI"],
+        "description": "Chatbot-based prompt-to-website generator using Anthropic API and Stackblitz in-browser runtime."
+      },
+      {
+        "name": "DocWave",
+        "tech": ["ReactJS", "NodeJS", "ExpressJS", "MongoDB"],
+        "description": "Real-time collaborative document editor with sockets, grammar checker, Llama AI, and auth."
+      }
+    ],
+    "experience": [
+      {
+        "role": "Backend Developer",
+        "organization": "PISB",
+        "project": "Credenz Festival Web App",
+        "duration": "Jan 2025 – Mar 2025",
+        "location": "Pune, Maharashtra",
+        "description": "Developed user auth, lifeline system, leaderboard and backend deployment for quiz web-app."
+      }
+    ],
+    "certifications": [
+      "Java Certification – Hackerrank",
+      "Web Development – Angela Yu",
+      "Java Certification – CodeChef"
+    ]
+  }
+  

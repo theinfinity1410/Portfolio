@@ -15,29 +15,27 @@ pids
 # Dependency directories
 node_modules/
 jspm_packages/
-web_modules/
 
 # Build output
-build/
 dist/
-.next/
-.nuxt/
-.out/
-
-# Environment variables
-.env
-.env.test
+build/
 
 # Coverage reports
 coverage/
-.nyc_output/
+*.lcov
 
-# IDE files
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE/editor files
 .vscode/
 .idea/
-.DS_Store
+*.swp
 
 # Miscellaneous
-.cache/
-.parcel-cache/
-.yarn-integrity
+.DS_Store
+Thumbs.db

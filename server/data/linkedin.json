@@ -1,0 +1,28 @@
+{
+    "name": "Swayam Gosavi",
+    "headline": "PICT'27 | Full Stack Developer | Java | Python | DSA (300+ LeetCode questions solved)",
+    "location": "Pune, Maharashtra, India",
+    "linkedin_url": "https://www.linkedin.com/in/swayam-gosavi-8020a4212/",
+    "summary": "Sophomore at PICT (ENTC), full stack developer with experience in JavaScript, Node.js, Python (DRF), and Golang. Exploring system design, cloud, DevOps, and Gen-AI. Strong foundation in OOP and DSA with Core Java.",
+    "top_skills": ["Full-Stack Development", "Core Java", "RESTful WebServices"],
+    "certifications": [
+      "Java Certificate"
+    ],
+    "education": [
+      {
+        "institution": "Pune Institute of Computer Technology",
+        "degree": "Bachelor of Engineering - Electronics and Communications Engineering",
+        "duration": "August 2023 - August 2027"
+      },
+      {
+        "institution": "Ashoka Universal School",
+        "degree": "Grade 1-12",
+        "duration": "March 2009 - March 2023"
+      }
+    ],
+    "contact": {
+      "email": "swayamgosavi1410@gmail.com",
+      "phone": "+91 9822687804"
+    }
+  }
+  

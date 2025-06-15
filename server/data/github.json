@@ -1,0 +1,18 @@
+{
+    "username": "theinfinity1410",
+    "profile_url": "https://github.com/theinfinity1410",
+    "projects": [
+      {
+        "name": "QuickSilver",
+        "repo": "https://github.com/theinfinity1410/QuickSilver",
+        "description": "Chatbot-based web app that generates websites using prompts. Integrates Claude AI with Stackblitz containers for in-browser code execution."
+      },
+      {
+        "name": "RC_Backend_Rd1",
+        "repo": "https://github.com/CREDENZ-25/RC_Backend-_Rd1",
+        "description": "Backend for PISB’s Reverse Coding quiz app. Built with Node.js and PostgreSQL. Scaled to 100+ real-time users. Deployed on Azure."
+      }
+    ],
+    "skills": ["JavaScript", "TypeScript", "NodeJS", "ReactJS", "GraphQL", "PostgreSQL", "MongoDB", "Prisma"]
+  }
+  
