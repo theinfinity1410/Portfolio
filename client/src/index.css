@@ -9,3 +9,28 @@
 body {
   @apply font-sans text-gray-900;
 }
+
+/* Custom prose styling for dark theme */
+.prose-invert {
+  @apply text-gray-100;
+}
+
+.prose-invert strong {
+  @apply text-white;
+}
+
+.prose-invert a {
+  @apply text-blue-300 hover:text-blue-200;
+}
+
+.prose-invert code {
+  @apply bg-gray-800 text-gray-100;
+}
+
+.prose-invert pre {
+  @apply bg-gray-800 text-gray-100;
+}
+
+.prose-invert blockquote {
+  @apply border-gray-500 text-gray-300;
+}
