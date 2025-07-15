@@ -17,7 +17,7 @@ export default function ChatBot() {
     setLoading(true);
 
     try {
-      const response = await fetch("https://portfolio-production-1d2c.up.railway.app/api/chat", {
+      const response = await fetch("https://portfolio-78ir.onrender.com/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ message: userMessage }),
